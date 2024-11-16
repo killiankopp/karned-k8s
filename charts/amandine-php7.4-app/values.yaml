@@ -1,0 +1,5 @@
+NameSpace: karned
+AppName: karned-app
+
+HostName: karned.bzh
+DiskSize: 5Gi
